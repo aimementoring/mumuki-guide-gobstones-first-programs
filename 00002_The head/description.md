@@ -4,7 +4,7 @@ As you noted in the previous exercise, the generated board had a marked cell:
   GBB/1.0
     size 3 3
     head 0 0
-</gs-board>
+</gs-board> 
 
 
 Why is that? Because our computer has a head, which is always situated upon one of the board cells, and can execute different operations on it (be patient, we will get to know them).
