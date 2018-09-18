@@ -5,10 +5,8 @@ Every program has exactly one program: a section of the code which declares the 
 The syntax of a `program` is really simple:
 
 1. we write a line which says `program`, followed by an opening key: `{`
-
-2. next, the commands: one per line
-
-3. and finally, one last key which closes the one we used before `}`
+1. next, the commands: one per line
+1. and finally, one last key which closes the one we used before `}`
 
 Some examples of `program`s:
 
