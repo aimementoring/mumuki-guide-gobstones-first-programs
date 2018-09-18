@@ -1,4 +1,4 @@
-In spite of programming seems to be an exact science, **programming is the art of making a computer solve our problems**.
+Although programming seems to be an exact science, **programming is the art of making a computer solve our problems**.
  
 One moment… art? Yes! There are many ways of solving a problem, and finding those ways is a creative process.
  
