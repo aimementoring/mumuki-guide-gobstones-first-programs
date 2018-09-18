@@ -1,6 +1,7 @@
 Note that in this problem, if we change the order in which we called (use) Drop, the result doesn't change: there always will be a board with three red, one blue and one green red stones.
  
 For example, the following two programs also solve this same problem:
+
 ```gobstones
 program {
   Drop(Red)

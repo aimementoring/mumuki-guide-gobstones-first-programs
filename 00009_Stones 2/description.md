@@ -1,6 +1,6 @@
 Something interesting of our boards is that in their cells, we can drop any number of stones of any color.
  
-For example, if we have this board:
+For example, if we have this board: 
 
 <gs-board>
   GBB/1.0
