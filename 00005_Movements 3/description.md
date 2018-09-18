@@ -30,8 +30,4 @@ Write a program which moves the head two positions to the East and one to the So
   <tbody>
 </table>
  
-Remember that the command which moves the head is called Move (neither mOvE or move or MOVE).
- 
-Observe the syntax is very important!
- 
-If you don't do it, the program won't work.
+Remember that the command which moves the head is called Move (neither mOvE or move or MOVE). **Observe the syntax is very important!** If you don't do it, the program won't work.
