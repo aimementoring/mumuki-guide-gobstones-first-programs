@@ -1,4 +1,4 @@
-Let´s understand what we just did: write a program.
+Let's understand what we just did: write a program.
 
 Every program has exactly one program: a section of the code which declares the commands (actions) that we want the computer to execute on the initial board. By executing a program, we get a final board.
 
