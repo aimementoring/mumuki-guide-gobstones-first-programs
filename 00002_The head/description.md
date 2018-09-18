@@ -1,4 +1,4 @@
-As you noted in the previous exercise, the generated board had a marked cell:
+As you noted in the previous exercise, the generated board had a marked **cell**:
  
 <gs-board>
   GBB/1.0
@@ -7,7 +7,7 @@ As you noted in the previous exercise, the generated board had a marked cell:
 </gs-board> 
 
 
-Why is that? Because our computer has a head, which is always situated upon one of the board cells, and can execute different operations on it (be patient, we will get to know them).
+Why is that? Because our computer has a **head**, which is always situated upon one of the board cells, and can execute different operations on it (be patient, we will get to know them).
  
 For example, look at the following 5x2 board with the head situated on the second and forth column.
 
