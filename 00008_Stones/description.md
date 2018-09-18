@@ -21,7 +21,7 @@ Apart from moving, the head also can drop stones in the **current cell**. For th
 
 ```gobstones
 program {
-  Poner(Rojo)    
+  Drop(Red)    
 }
 ```
 
