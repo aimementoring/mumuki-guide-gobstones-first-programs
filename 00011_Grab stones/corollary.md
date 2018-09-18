@@ -1,0 +1,1 @@
+What if there is no stone to grab?

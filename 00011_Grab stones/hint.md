@@ -1,0 +1,1 @@
+Maybe you need to move the head before trying to grab the stone.
