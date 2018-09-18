@@ -1,6 +1,6 @@
 To begin programming, the first element we will use is a squared board, similar to the one that is used to play Chess, Checkers or [Go](http://es.wikipedia.org/wiki/Go).
  
-These boards can have any size, such as:
+These boards can have any size, such as: 
 
 | 4x4 | 3x2 |
 |:---:|:---:|
