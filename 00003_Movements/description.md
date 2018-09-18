@@ -1,7 +1,7 @@
 Up to this point, what you did wasn't much exciting, was it? That is because we haven't taught you yet how to give the computer instructions, and we have only showed you a board.
  
 In this exercise we will learn one of the orders we can give to the computer: to move the head.
-For instance, starting from an initial empty board, we can easily write a program that moves the head one position to the north.
+For instance, starting from an **initial** empty board, we can easily write a program that moves the head one position to the **north**.
 
 <table class= "table" style="width:100%">
   <thead>
@@ -32,7 +32,7 @@ For instance, starting from an initial empty board, we can easily write a progra
   <tbody>
 </table>
  
-The program code (meaning the text of the description of the solution we will give the computer) which achieves this is the following:
+The program **code** (meaning the **text** of the description of the solution we will give the computer) which achieves this is the following:
 
 ```gobstones
 program {
