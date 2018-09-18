@@ -1,4 +1,4 @@
-Some last effort: using Grab, write a program that removes every stone of this board.
+Some last effort: using `Grab`, write a program that removes every stone of this board.
 
 <gs-board>
   GBB/1.0
