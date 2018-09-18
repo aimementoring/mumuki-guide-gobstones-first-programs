@@ -2,7 +2,7 @@ Let's understand what we just did: write a program.
 
 Every program has exactly one program: a section of the code which declares the commands (actions) that we want the computer to execute on the initial board. By executing a program, we get a final board.
 
-The syntax of a program is really simple:
+The syntax of a program is really simple: 
 1. we write a line which says program, followed by an opening key: {
 1. next, the commands: one per line
 1. and finally, one last key which closes the one we used before }
