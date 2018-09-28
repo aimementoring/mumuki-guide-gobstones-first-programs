@@ -25,7 +25,7 @@ program {
 }
 ```
 
-> Try this program! Write the code in the editor, send it and you will see what happens when executing it on this board:
+> Try this program! Write the code in the editor, submit it and you will see what happens when executing it on this board:
 
 <gs-board>
   GBB/1.0
