@@ -1,5 +1,6 @@
 As you can imagine, not only the head can be moved to the north, and a program can combine any kind of movements.
-Write a program which moves the head two positions to the East and one to the South, resulting in the following effect:
+
+> Write a program that moves the head two positions to the East and one to the South, resulting in the following effect:
 
 <table class= "table" style="width:100%">
   <thead>
