@@ -40,4 +40,4 @@ program {
 }
 ```
  
-> Don't you believe us? Write down the previous code in the editor and press “send”.
+> Don't you believe us? Write down the previous code in the editor and press “Send”.
