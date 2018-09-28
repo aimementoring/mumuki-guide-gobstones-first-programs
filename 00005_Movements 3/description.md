@@ -31,4 +31,4 @@ As you can imagine, not only the head can be moved to the north, and a program c
   <tbody>
 </table>
  
-Remember that the command which moves the head is called Move (neither mOvE or move or MOVE). **Observe the syntax is very important!** If you don't do it, the program won't work.
+Remember that the command which moves the head is called Move (neither mOvE or move or MOVE). **It's very important to observe the syntax!** If you don't do it, the program won't work.
