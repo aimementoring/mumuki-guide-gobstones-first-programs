@@ -19,4 +19,4 @@ However, human beings, usually think according to the final result, that is to s
 
 That is why there are many ways to solve a same problem: we can write different programs that do the same thing (what), but that do it in a different way (how).
 
-> Let's see if you get this: write another program which does the same thing that the previous one (move to the northeast), but in a different way. Watch out: it has to work in a 2x2 board.
+> Let's see if you get this: write another program which does the same thing than the previous one (move to the northeast), but in a different way. Watch out: it has to work in a 2x2 board.
