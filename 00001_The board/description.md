@@ -9,4 +9,4 @@ These boards can have any size, such as:
 We will always need a board on which **execute** our **programs**, and we will be in charge of creating them for you, in every one of the exercises.
 The interesting point is that the same program can be executed on different boards, bringing about different results.
  
-> In order for you to check that we don't lie, press “continue” button, and we will generate your first 3x3 board.
+> In order for you to check that we don't lie, press “Continue” button, and we will generate your first 3x3 board.
