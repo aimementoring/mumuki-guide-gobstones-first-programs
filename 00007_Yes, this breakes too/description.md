@@ -5,7 +5,7 @@ However, it isn't a reason to get disappointed or any like that. We assure you t
 
 Having said that, we will show you a way to do it, simply not to scare you _that_ much when it really happens to you.
 
-> So, how is it? Discover it yourself: starting from the board below, write a program which makes the head go beyond the limits.
+> So, how is it? Discover it yourself: starting from the board below, write a program that makes the head go beyond the limits.
 
 <gs-board>
   GBB/1.0
