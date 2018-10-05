@@ -8,4 +8,4 @@ Knowing how to program gives us a big power: instead of doing repetitive and bor
  
 But, how do we explain to the computer how to solve the problem? We need to write the solution in a language that both people and computers can understand: **programming language**.
  
-Let’s learn how to do it with the help of Gobstones language!
+Let’s learn how to do it with the help of Gobstones language! 
