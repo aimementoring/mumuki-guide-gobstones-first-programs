@@ -1,6 +1,6 @@
 In the same way that there is a “drop a stone” (Drop), there is a “grab a stone” (Grab), which removes exactly one stone of the given color.
 
-For example, the following program grabs two stones of the initial position.
+For example, the following program grabs two stones from the initial position.
 
 ```gobstones
 program {
@@ -9,7 +9,7 @@ program {
 }
 ```
 
-> Knowing this, write a program which removes only the small red ball of this board. Watch out! Pay attention to the position of the head. : wink:
+> Knowing this, write a program which removes only the small red stone in this board. Watch out! Pay attention to the position of the head. : wink:
 
 <gs-board>
   GBB/1.0
