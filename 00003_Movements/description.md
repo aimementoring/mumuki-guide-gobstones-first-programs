@@ -1,6 +1,6 @@
-Up to this point, what you did wasn't much exciting, was it? That is because we haven't taught you yet how to give the computer instructions, and we have only showed you a board.
+Up to this point, what you did wasn't that exciting, was it? That's because we haven't taught you how to give the computer instructions yet, and we have only shown you a board.
  
-In this exercise we will learn one of the instructions we can give to the computer: to move the head.
+In this exercise we will learn one of the instructions we can give to the computer: moving the head.
 For instance, starting from an **initial** empty board, we can easily write a program that moves the head one position to the **north**.
 
 <table class= "table" style="width:100%">

@@ -21,4 +21,4 @@ One important thing: we count rows from the bottom up, and columns from left to 
  
 The first **row** is the one of the bottom, and the first **column** is the one of the left.
 
-> Are you still with doubts? Press “send” and we will generate a 3x3 board with the head on the second column and third row.
+> Still have doubts? Press “send” and we will generate a 3x3 board with the head on the second column and third row.
