@@ -1,4 +1,4 @@
-Note that this two programs make the same thing:
+Note that these two programs do the same thing:
 
 ```gobstones
 program {

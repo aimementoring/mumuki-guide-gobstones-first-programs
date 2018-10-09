@@ -1,1 +1,1 @@
-Perfect! We have just written a program in which the order does not affect the what. Nevertheless, this won't be always like this: shortly, we will face problems where you have to pay more attention to the order of the commands.
+Perfect! We have just written a program in which the order does not affect the `what`. Nevertheless, this won't be always like this: shortly, we will face problems where you have to pay more attention to the order of the commands.
