@@ -1,4 +1,4 @@
-To begin programming, the first element we will use is a squared board, similar to the one that is used to play Chess, Checkers or [Go](https://en.wikipedia.org/wiki/Go_(game)).
+To begin programming, the first element we will use is a square board, similar to the one that is used to play Chess, Checkers or [Go](https://en.wikipedia.org/wiki/Go_(game)).
  
 These boards can have any size, such as: 
 
@@ -9,4 +9,4 @@ These boards can have any size, such as:
 We will always need a board (which we'll create on each of these exercises for you) to **execute** our **programs** on.
 The interesting point is that the same program can be executed on different boards, bringing about different results.
  
-> In order for you to check that we don't lie, press “Continue” button, and we will generate your first 3x3 board.
+> In order for you to check that we don't lie, press the “Continue” button, and we will generate your first 3x3 board.
