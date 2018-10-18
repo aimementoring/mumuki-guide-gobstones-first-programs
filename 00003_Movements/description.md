@@ -1,7 +1,7 @@
 Up to this point, what you did wasn't that exciting, was it? That's because we haven't taught you how to give the computer instructions yet, and we have only shown you a board.
  
 In this exercise we will learn one of the instructions we can give to the computer: moving the head.
-For instance, starting from an **initial** empty board, we can easily write a program that moves the head one position to the **north**.
+For instance, starting from an **initial** empty board, we can easily write a program that moves the head one position to the **North**.
 
 <table class= "table" style="width:100%">
   <thead>
