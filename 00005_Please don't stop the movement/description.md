@@ -5,7 +5,7 @@ As you can imagine, not only the head can be moved to the north, and a program c
 <table class= "table" style="width:100%">
   <thead>
   <tr>
-    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center">Initial</th>
     <th style="text-align: center"></th> 
     <th style="text-align: center">Final</th>
   </tr>
