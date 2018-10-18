@@ -6,7 +6,7 @@ For instance, starting from an **initial** empty board, we can easily write a pr
 <table class= "table" style="width:100%">
   <thead>
   <tr>
-    <th style="text-align: center">Inicial</th>
+    <th style="text-align: center">Initial</th>
     <th style="text-align: center"></th> 
     <th style="text-align: center">Final</th>
   </tr>
